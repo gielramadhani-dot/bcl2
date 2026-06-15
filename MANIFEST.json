@@ -1,0 +1,233 @@
+{
+  "created_utc": "2026-06-15T11:46:17Z",
+  "items": [
+    {
+      "path": "01_Manuscript_and_SI_documents/Artikel_Macaflavone_BCL2_GNN_Dengan_Semua_Gambar.docx",
+      "source": "/mnt/data/Artikel_Macaflavone_BCL2_GNN_Dengan_Semua_Gambar.docx",
+      "bytes": 11498404,
+      "note": "Current manuscript/draft document available in workspace"
+    },
+    {
+      "path": "01_Manuscript_and_SI_documents/Rancangan_Artikel_Macaflavone_BCL2_Tabel_Gambar_Final.docx",
+      "source": "/mnt/data/Rancangan_Artikel_Macaflavone_BCL2_Tabel_Gambar_Final.docx",
+      "bytes": 6149812,
+      "note": "Current manuscript/draft document available in workspace"
+    },
+    {
+      "path": "01_Manuscript_and_SI_documents/Rancangan_Manuscript_Macaflavone_BCL2_GNN.docx",
+      "source": "/mnt/data/Rancangan_Manuscript_Macaflavone_BCL2_GNN.docx",
+      "bytes": 3282074,
+      "note": "Current manuscript/draft document available in workspace"
+    },
+    {
+      "path": "02_Main_figures_final/figure_1_workflow.png",
+      "source": "/mnt/data/scientific_workflow_for_macaflavone_prioritization.png",
+      "bytes": 1794646,
+      "note": "Final selected figure for manuscript/GitHub"
+    },
+    {
+      "path": "02_Main_figures_final/figure_2_gnn_architecture.png",
+      "source": "/mnt/data/ligand_based_gnn_architecture_overview.png",
+      "bytes": 1469938,
+      "note": "Final selected figure for manuscript/GitHub"
+    },
+    {
+      "path": "02_Main_figures_final/figure_3_docking_analysis.png",
+      "source": "/mnt/data/molecular_docking_comparison_with_inhibitors.png",
+      "bytes": 1473308,
+      "note": "Final selected figure for manuscript/GitHub"
+    },
+    {
+      "path": "02_Main_figures_final/figure_4_pilot_md_analysis.png",
+      "source": "/mnt/data/fe0dc25d-6a28-437d-a0de-8f51f194a470.png",
+      "bytes": 530450,
+      "note": "Final selected figure for manuscript/GitHub"
+    },
+    {
+      "path": "02_Main_figures_final/figure_5_integrated_prioritization.png",
+      "source": "/mnt/data/30b202cf-6418-467a-b232-90207c5f8a01.png",
+      "bytes": 612302,
+      "note": "Final selected figure for manuscript/GitHub"
+    },
+    {
+      "path": "02_Main_figures_final/figure_6_mechanistic_hypothesis.png",
+      "source": "/mnt/data/1b17dc16-ce54-4a6c-a16b-0ceb89df67c4.png",
+      "bytes": 610634,
+      "note": "Final selected figure for manuscript/GitHub"
+    },
+    {
+      "path": "02_Main_figures_final/figure_7a_model_performance.png",
+      "source": "/mnt/data/model_performance_evaluation_across_metrics.png",
+      "bytes": 860452,
+      "note": "Final selected figure for manuscript/GitHub"
+    },
+    {
+      "path": "02_Main_figures_final/figure_7b_molecular_ranking.png",
+      "source": "/mnt/data/chemical_structure_ranking_by_pactivity.png",
+      "bytes": 763606,
+      "note": "Final selected figure for manuscript/GitHub"
+    },
+    {
+      "path": "02_Main_figures_final/figure_7c_gnn_interpretation.png",
+      "source": "/mnt/data/molecular_comparison_with_gnn_visuals.png",
+      "bytes": 1052964,
+      "note": "Final selected figure for manuscript/GitHub"
+    },
+    {
+      "path": "07_Article_source_assets/alternative_exact_analysis_figures/Figure_3_exact_docking_benchmarking.png",
+      "source": "/mnt/data/macaflavone_article_figs/Figure_3_exact_docking_benchmarking.png",
+      "bytes": 572573,
+      "note": "Alternative exact-analysis figure generated from numerical data"
+    },
+    {
+      "path": "07_Article_source_assets/alternative_exact_analysis_figures/Figure_4_exact_md_descriptors.png",
+      "source": "/mnt/data/macaflavone_article_figs/Figure_4_exact_md_descriptors.png",
+      "bytes": 338422,
+      "note": "Alternative exact-analysis figure generated from numerical data"
+    },
+    {
+      "path": "07_Article_source_assets/alternative_exact_analysis_figures/Figure_5_exact_integrated_prioritization.png",
+      "source": "/mnt/data/macaflavone_article_figs/Figure_5_exact_integrated_prioritization.png",
+      "bytes": 262312,
+      "note": "Alternative exact-analysis figure generated from numerical data"
+    },
+    {
+      "path": "07_Article_source_assets/alternative_exact_analysis_figures/Figure_7_exact_gnn_prediction_molecular.png",
+      "source": "/mnt/data/macaflavone_article_figs/Figure_7_exact_gnn_prediction_molecular.png",
+      "bytes": 584151,
+      "note": "Alternative exact-analysis figure generated from numerical data"
+    },
+    {
+      "path": "03_Main_tables_csv/table_3_docking_results.csv",
+      "source": "/mnt/data/macaflavone_bcl2_current_available_assets/tables/table_3_docking_results.csv",
+      "bytes": 266,
+      "note": "Main manuscript table in CSV format"
+    },
+    {
+      "path": "03_Main_tables_csv/table_4_pilot_md_descriptor_summary.csv",
+      "source": "/mnt/data/macaflavone_bcl2_current_available_assets/tables/table_4_pilot_md_descriptor_summary.csv",
+      "bytes": 484,
+      "note": "Main manuscript table in CSV format"
+    },
+    {
+      "path": "03_Main_tables_csv/table_5_integrated_normalization_matrix.csv",
+      "source": "/mnt/data/macaflavone_bcl2_current_available_assets/tables/table_5_integrated_normalization_matrix.csv",
+      "bytes": 318,
+      "note": "Main manuscript table in CSV format"
+    },
+    {
+      "path": "03_Main_tables_csv/table_6_gnn_model_performance.csv",
+      "source": "/mnt/data/macaflavone_bcl2_current_available_assets/tables/table_6_gnn_model_performance.csv",
+      "bytes": 201,
+      "note": "Main manuscript table in CSV format"
+    },
+    {
+      "path": "03_Main_tables_csv/table_7_external_ligand_prediction_ad.csv",
+      "source": "/mnt/data/macaflavone_bcl2_current_available_assets/tables/table_7_external_ligand_prediction_ad.csv",
+      "bytes": 345,
+      "note": "Main manuscript table in CSV format"
+    },
+    {
+      "path": "03_Main_tables_csv/table_8_final_consensus_ranking.csv",
+      "source": "/mnt/data/macaflavone_bcl2_current_available_assets/tables/table_8_final_consensus_ranking.csv",
+      "bytes": 272,
+      "note": "Main manuscript table in CSV format"
+    },
+    {
+      "path": "04_Drive_Stage9C_GNN_final_package/README_STAGE9C_FINAL_GNN_PACKAGE.md",
+      "source": "/mnt/data/README_STAGE9C_FINAL_GNN_PACKAGE.md",
+      "bytes": 877,
+      "note": "Downloaded from Drive Stage9C final GNN package"
+    },
+    {
+      "path": "04_Drive_Stage9C_GNN_final_package/Table_28_stage9c_final_gnn_interpretation_matrix.xlsx",
+      "source": "/mnt/data/Table_28_stage9c_final_gnn_interpretation_matrix.xlsx",
+      "bytes": 5563,
+      "note": "Downloaded from Drive Stage9C final GNN package"
+    },
+    {
+      "path": "04_Drive_Stage9C_GNN_final_package/Table_29_stage9c_gnn_claim_boundary_matrix.xlsx",
+      "source": "/mnt/data/Table_29_stage9c_gnn_claim_boundary_matrix.xlsx",
+      "bytes": 5908,
+      "note": "Downloaded from Drive Stage9C final GNN package"
+    },
+    {
+      "path": "04_Drive_Stage9C_GNN_final_package/Table_30_stage9c_final_gnn_summary.xlsx",
+      "source": "/mnt/data/Table_30_stage9c_final_gnn_summary.xlsx",
+      "bytes": 5253,
+      "note": "Downloaded from Drive Stage9C final GNN package"
+    },
+    {
+      "path": "04_Drive_Stage9C_GNN_final_package/Figure_10_stage9c_gnn_final_interpretation.pdf",
+      "source": "/mnt/data/Figure_10_stage9c_gnn_final_interpretation.pdf",
+      "bytes": 39785,
+      "note": "Downloaded from Drive Stage9C final GNN package"
+    },
+    {
+      "path": "05_Drive_Stage9D_molecular_GNN_visualization/README_STAGE9D_MOLECULAR_GNN.md",
+      "source": "/mnt/data/README_STAGE9D_MOLECULAR_GNN.md",
+      "bytes": 643,
+      "note": "Downloaded from Drive Stage9D molecular GNN visualization package"
+    },
+    {
+      "path": "05_Drive_Stage9D_molecular_GNN_visualization/Table_31_stage9d_atom_level_gnn_saliency.xlsx",
+      "source": "/mnt/data/Table_31_stage9d_atom_level_gnn_saliency.xlsx",
+      "bytes": 16060,
+      "note": "Downloaded from Drive Stage9D molecular GNN visualization package"
+    },
+    {
+      "path": "05_Drive_Stage9D_molecular_GNN_visualization/Table_32_stage9d_molecular_gnn_visualization_summary.xlsx",
+      "source": "/mnt/data/Table_32_stage9d_molecular_gnn_visualization_summary.xlsx",
+      "bytes": 6018,
+      "note": "Downloaded from Drive Stage9D molecular GNN visualization package"
+    },
+    {
+      "path": "05_Drive_Stage9D_molecular_GNN_visualization/Figure_11_stage9d_molecular_gnn_visualization.pdf",
+      "source": "/mnt/data/Figure_11_stage9d_molecular_gnn_visualization.pdf",
+      "bytes": 400355,
+      "note": "Downloaded from Drive Stage9D molecular GNN visualization package"
+    },
+    {
+      "path": "06_Drive_Stage9E_docking_GNN_validation_CHECK_BEFORE_USE/README_STAGE9E_MOLECULAR_DOCKING_GNN_VALIDATION.md",
+      "source": "/mnt/data/README_STAGE9E_MOLECULAR_DOCKING_GNN_VALIDATION.md",
+      "bytes": 649,
+      "note": "Downloaded from Drive Stage9E; check mapping before using in main article"
+    },
+    {
+      "path": "06_Drive_Stage9E_docking_GNN_validation_CHECK_BEFORE_USE/Table_33_stage9e_molecular_docking_gnn_validation_matrix.xlsx",
+      "source": "/mnt/data/Table_33_stage9e_molecular_docking_gnn_validation_matrix.xlsx",
+      "bytes": 6791,
+      "note": "Downloaded from Drive Stage9E; check mapping before using in main article"
+    },
+    {
+      "path": "06_Drive_Stage9E_docking_GNN_validation_CHECK_BEFORE_USE/Table_34_stage9e_atom_level_gnn_saliency_for_docking_validation.xlsx",
+      "source": "/mnt/data/Table_34_stage9e_atom_level_gnn_saliency_for_docking_validation.xlsx",
+      "bytes": 20293,
+      "note": "Downloaded from Drive Stage9E; check mapping before using in main article"
+    },
+    {
+      "path": "06_Drive_Stage9E_docking_GNN_validation_CHECK_BEFORE_USE/Table_35_stage9e_docking_gnn_claim_boundary.xlsx",
+      "source": "/mnt/data/Table_35_stage9e_docking_gnn_claim_boundary.xlsx",
+      "bytes": 5544,
+      "note": "Downloaded from Drive Stage9E; check mapping before using in main article"
+    },
+    {
+      "path": "06_Drive_Stage9E_docking_GNN_validation_CHECK_BEFORE_USE/Figure_12_stage9e_molecular_docking_gnn_validation.pdf",
+      "source": "/mnt/data/Figure_12_stage9e_molecular_docking_gnn_validation.pdf",
+      "bytes": 758945,
+      "note": "Downloaded from Drive Stage9E; check mapping before using in main article"
+    },
+    {
+      "path": "00_README_AND_METADATA/current_available_assets_README.md",
+      "source": "/mnt/data/macaflavone_bcl2_current_available_assets/README.md",
+      "bytes": 657,
+      "note": "Metadata from previous workspace package"
+    },
+    {
+      "path": "00_README_AND_METADATA/current_available_assets_availability_manifest.md",
+      "source": "/mnt/data/macaflavone_bcl2_current_available_assets/metadata/availability_manifest.md",
+      "bytes": 962,
+      "note": "Metadata from previous workspace package"
+    }
+  ]
+}

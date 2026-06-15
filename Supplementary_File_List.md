@@ -1,0 +1,40 @@
+# Supplementary File List
+The following files are included in this GitHub-ready supplementary package.
+- `01_Manuscript_and_SI_documents/Artikel_Macaflavone_BCL2_GNN_Dengan_Semua_Gambar.docx` — included. Current manuscript/draft document available in workspace
+- `01_Manuscript_and_SI_documents/Rancangan_Artikel_Macaflavone_BCL2_Tabel_Gambar_Final.docx` — included. Current manuscript/draft document available in workspace
+- `01_Manuscript_and_SI_documents/Rancangan_Manuscript_Macaflavone_BCL2_GNN.docx` — included. Current manuscript/draft document available in workspace
+- `02_Main_figures_final/figure_1_workflow.png` — included. Final selected figure for manuscript/GitHub
+- `02_Main_figures_final/figure_2_gnn_architecture.png` — included. Final selected figure for manuscript/GitHub
+- `02_Main_figures_final/figure_3_docking_analysis.png` — included. Final selected figure for manuscript/GitHub
+- `02_Main_figures_final/figure_4_pilot_md_analysis.png` — included. Final selected figure for manuscript/GitHub
+- `02_Main_figures_final/figure_5_integrated_prioritization.png` — included. Final selected figure for manuscript/GitHub
+- `02_Main_figures_final/figure_6_mechanistic_hypothesis.png` — included. Final selected figure for manuscript/GitHub
+- `02_Main_figures_final/figure_7a_model_performance.png` — included. Final selected figure for manuscript/GitHub
+- `02_Main_figures_final/figure_7b_molecular_ranking.png` — included. Final selected figure for manuscript/GitHub
+- `02_Main_figures_final/figure_7c_gnn_interpretation.png` — included. Final selected figure for manuscript/GitHub
+- `07_Article_source_assets/alternative_exact_analysis_figures/Figure_3_exact_docking_benchmarking.png` — included. Alternative exact-analysis figure generated from numerical data
+- `07_Article_source_assets/alternative_exact_analysis_figures/Figure_4_exact_md_descriptors.png` — included. Alternative exact-analysis figure generated from numerical data
+- `07_Article_source_assets/alternative_exact_analysis_figures/Figure_5_exact_integrated_prioritization.png` — included. Alternative exact-analysis figure generated from numerical data
+- `07_Article_source_assets/alternative_exact_analysis_figures/Figure_7_exact_gnn_prediction_molecular.png` — included. Alternative exact-analysis figure generated from numerical data
+- `03_Main_tables_csv/table_3_docking_results.csv` — included. Main manuscript table in CSV format
+- `03_Main_tables_csv/table_4_pilot_md_descriptor_summary.csv` — included. Main manuscript table in CSV format
+- `03_Main_tables_csv/table_5_integrated_normalization_matrix.csv` — included. Main manuscript table in CSV format
+- `03_Main_tables_csv/table_6_gnn_model_performance.csv` — included. Main manuscript table in CSV format
+- `03_Main_tables_csv/table_7_external_ligand_prediction_ad.csv` — included. Main manuscript table in CSV format
+- `03_Main_tables_csv/table_8_final_consensus_ranking.csv` — included. Main manuscript table in CSV format
+- `04_Drive_Stage9C_GNN_final_package/README_STAGE9C_FINAL_GNN_PACKAGE.md` — included. Downloaded from Drive Stage9C final GNN package
+- `04_Drive_Stage9C_GNN_final_package/Table_28_stage9c_final_gnn_interpretation_matrix.xlsx` — included. Downloaded from Drive Stage9C final GNN package
+- `04_Drive_Stage9C_GNN_final_package/Table_29_stage9c_gnn_claim_boundary_matrix.xlsx` — included. Downloaded from Drive Stage9C final GNN package
+- `04_Drive_Stage9C_GNN_final_package/Table_30_stage9c_final_gnn_summary.xlsx` — included. Downloaded from Drive Stage9C final GNN package
+- `04_Drive_Stage9C_GNN_final_package/Figure_10_stage9c_gnn_final_interpretation.pdf` — included. Downloaded from Drive Stage9C final GNN package
+- `05_Drive_Stage9D_molecular_GNN_visualization/README_STAGE9D_MOLECULAR_GNN.md` — included. Downloaded from Drive Stage9D molecular GNN visualization package
+- `05_Drive_Stage9D_molecular_GNN_visualization/Table_31_stage9d_atom_level_gnn_saliency.xlsx` — included. Downloaded from Drive Stage9D molecular GNN visualization package
+- `05_Drive_Stage9D_molecular_GNN_visualization/Table_32_stage9d_molecular_gnn_visualization_summary.xlsx` — included. Downloaded from Drive Stage9D molecular GNN visualization package
+- `05_Drive_Stage9D_molecular_GNN_visualization/Figure_11_stage9d_molecular_gnn_visualization.pdf` — included. Downloaded from Drive Stage9D molecular GNN visualization package
+- `06_Drive_Stage9E_docking_GNN_validation_CHECK_BEFORE_USE/README_STAGE9E_MOLECULAR_DOCKING_GNN_VALIDATION.md` — included. Downloaded from Drive Stage9E; check mapping before using in main article
+- `06_Drive_Stage9E_docking_GNN_validation_CHECK_BEFORE_USE/Table_33_stage9e_molecular_docking_gnn_validation_matrix.xlsx` — included. Downloaded from Drive Stage9E; check mapping before using in main article
+- `06_Drive_Stage9E_docking_GNN_validation_CHECK_BEFORE_USE/Table_34_stage9e_atom_level_gnn_saliency_for_docking_validation.xlsx` — included. Downloaded from Drive Stage9E; check mapping before using in main article
+- `06_Drive_Stage9E_docking_GNN_validation_CHECK_BEFORE_USE/Table_35_stage9e_docking_gnn_claim_boundary.xlsx` — included. Downloaded from Drive Stage9E; check mapping before using in main article
+- `06_Drive_Stage9E_docking_GNN_validation_CHECK_BEFORE_USE/Figure_12_stage9e_molecular_docking_gnn_validation.pdf` — included. Downloaded from Drive Stage9E; check mapping before using in main article
+- `00_README_AND_METADATA/current_available_assets_README.md` — included. Metadata from previous workspace package
+- `00_README_AND_METADATA/current_available_assets_availability_manifest.md` — included. Metadata from previous workspace package
